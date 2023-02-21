@@ -5,6 +5,19 @@
   --fourth-color: #ffd8d8;
   --box-shadow: 0 5px 10px rgba(0, 0, 0, 0.3);
 }
+@media (max-width: 600px) {
+  .name {
+    font-size: 32px;
+  }
+  .woman-coding {
+    display: none;
+  }
+  .project-link {
+    display: block;
+    text-align: center;
+    margin: 0 20px;
+  }
+}
 h1 {
   margin-top: 70px;
 }
