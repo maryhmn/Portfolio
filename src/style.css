@@ -18,6 +18,9 @@
     margin: 0 20px;
   }
 }
+body {
+  margin: 80px 0;
+}
 h1 {
   margin-top: 70px;
 }
